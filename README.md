@@ -54,3 +54,5 @@
  # **accept-charset**
 
 
+ - O atributo "Accept-Charset" não é exatamente um atributo HTML, mas sim um cabeçalho HTTP que pode ser usado em solicitações HTTP enviadas pelo navegador. Ele especifica a codificação de caracteres aceitável para a resposta da solicitação. Isso permite que o cliente (geralmente um navegador da web) indique ao servidor quais conjuntos de caracteres ele suporta, para que o servidor possa enviar uma resposta no formato apropriado.
+
