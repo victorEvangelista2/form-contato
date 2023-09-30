@@ -64,7 +64,7 @@ Accept-Charset: iso-8859-1
 ```
 
 ```
-: utf-8, iso-8859-1;q=0.5
+Utf-8, iso-8859-1;q=0.5
 ```
 
 ```
