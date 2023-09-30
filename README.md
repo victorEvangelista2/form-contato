@@ -70,3 +70,7 @@ Utf-8, iso-8859-1;q=0.5
 ```
 Accept-Charset: utf-8, iso-8859-1;q=0.5, *;q=0.1
 ```
+
+# Autocapitalize
+
+ - 
