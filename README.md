@@ -73,4 +73,16 @@ Accept-Charset: utf-8, iso-8859-1;q=0.5, *;q=0.1
 
 # Autocapitalize
 
- - 
+ - O atributo "autocapitalize" é usado em elementos HTML para controlar a capitalização automática de texto em campos de entrada e campos de texto. Ele pode ter os seguintes valores:
+
+- "on": Isso permite que o navegador capitalize automaticamente as palavras à medida que o usuário digita.
+```
+Por padrão as letras serão
+```
+
+- "off": Isso desativa a automática.
+- "words": Apenas as primeiras letras de cada palavra são capitalizadas automaticamente.
+- "sentences": Apenas a primeira letra de cada frase é capitalizada automaticamente.
+- "characters": Cada caractere é capitalizado automaticamente.
+
+Isso é útil para personalizar a entrada de texto em formulários, dependendo dos requisitos do seu site ou aplicativo.
