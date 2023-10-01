@@ -24,16 +24,13 @@
  10. ***novalidate***
  11. ***target***
 
-# A seguir seram mostrados como são aplicados ⬇️
-
-
 # accept 📌
 
  - A propriedade aceitar é um atributo do tipo de arquivo **"input"** . Foi suportado no **"form"** elemento, mas foi removido em favor do arquivo.
 
  - Como um determinado tipo de arquivo pode ser identificado de mais de uma maneira, é útil fornecer um conjunto completo de especificadores de tipo quando você precisar de arquivos de um tipo específico ou usar o curinga para indicar que um tipo de qualquer formato é aceitável.
 
- - **Nota**: *Este atributo foi descontinuado e não deve ser usado. Em vez disso, use o acceptatributo nos "input type=file" elementos.*
+ ##### *Nota: Este atributo foi descontinuado e não deve ser usado. Em vez disso, use o acceptatributo nos "input type=file" elementos.*
 
 ## exemplos:
 
@@ -79,29 +76,17 @@ Accept-Charset: utf-8, iso-8859-1;q=0.5, *;q=0.1
 
 # Autocomplete 📌
 
- - O atributo "autocomplete" em HTML é usado para controlar se um navegador deve ou não fornecer sugestões de preenchimento automático para campos de formulário. Ele aceita os seguintes valores:
+ - O atributo "autocomplete" em HTML é usado para controlar se um navegador deve ou não fornecer sugestões de preenchimento automático para campos de formulário.
+ -  Ele aceita os seguintes valores:
 
-```
-"ON": Permite que o navegador forneça sugestões de preenchimento automático para o campo de formulário.
-```
+| Valores | Descrição |
+| --- | --- |
+| **ON**🔛 | _Permite que o navegador forneça sugestões de preenchimento automático para o campo de formulário._ |
+| **OFF**📴 | _Impede o navegador de fornecer sugestões de preenchimento automático para o campo._ |
+| **USERNAME**👤 | _Um nome de usuário ou nome de conta._ |
+| **E-MAIL**📧 | _Um endereço de e-mail._ |
+| **NAME** | _O campo espera que o valor seja o nome completo de uma pessoa. Usar " name" em vez de dividir o nome em seus componentes é geralmente preferido porque evita lidar com a grande diversidade de nomes humanos e como eles são estruturados._ |
 
-```
-"OFF": Impede o navegador de fornecer sugestões de preenchimento automático para o campo.
-```
-
-```
-"USERNAME":
-Um nome de usuário ou nome de conta.
-```
-
-```
-"E-MAIL": 📧
-Um endereço de e-mail.
-```
-
-```
-"NAME": O campo espera que o valor seja o nome completo de uma pessoa. Usar " name" em vez de dividir o nome em seus componentes é geralmente preferido porque evita lidar com a grande diversidade de nomes humanos e como eles são estruturados; no entanto, você pode usar os seguintes autocompletevalores se precisar dividir o nome em seus componentes:
-```
  - Isso pode ser útil em **formulários** sensíveis, como os que solicitam informações pessoais ou financeiras, onde você deseja dar ao usuário mais **controle sobre as informações que são automaticamente preenchidas pelo navegador.**
 
 # Name 📌
