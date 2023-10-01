@@ -1,40 +1,30 @@
 # Formulário de Contato e seus elementos 📋
 
-# FORM 
+# Elementos que compõe um formulário
 
- - Essa tag indica que estamos iniciando um formulário, recebe como principais atributos method que recebe como valor o método http que esse formulário irá executar (get, post) e action que especifica para onde enviar os dados do formulário quando um formulário é enviado.
-
-# INPUT
-
- - Um campo para que o usuário possa inserir algum texto, data, número, cor, etc… possui como principais atributos type, que recebe como valor o tipo do input.
-
-# TEXTAREA
-
- - Representa uma caixa de texto, útil quando você quer permitir ao usuário informar um texto extenso em formato livre, como um comentário ou formulário de retorno.
-
-# BUTTON
-
- - Um botão clicável, possui como principais atributos type, que caso receba submit como valor e esteja dentro de um formulário, irá submeter o formulário.
-
-# LABEL 
-
- - A tag label é importante para os campos de formulários. Ela especifica qual o "rótulo" do input (a que se refere o input, como por exemplo envolvê-la em um texto “Nome completo”), e ajuda na experiência do usuário durante a utilização e preenchimento do formulário.
+| Elementos | descrição |
+| --- | --- | 
+| FORM | Essa tag indica que estamos iniciando um formulário, recebe como principais atributos **"method"** e **"action".** | 
+| INPUT | Um campo para que o usuário possa inserir algum texto, data, número, cor, etc… possui como principal o atributo **"type"**. | 
+| TEXTAREA | Representa uma caixa de texto, útil quando você quer permitir ao usuário informar um texto. | 
+| BUTTON | Um botão clicável, que possui como principail atributo type. | 
+| LABEL | A tag label é importante para os campos de formulários. Ela especifica qual o "rótulo" do input e ajuda na experiência do usuário durante a utilização e preenchimento do formulário. | 
 
 # Atributos que compõe o elemento "FORM"
 
- - "accept"
- - "accept-charset"
- - "autocapitalize"
- - "autocomplete"
- - "name"
- - "rel"
- - "action"
- - "enctype"
- - "method"
- - "novalidate"
- - "target"
+ 1. ***accept***
+ 2. ***accept-charset***
+ 3. ***autocapitalize***
+ 4. ***autocomplete***
+ 5. ***name***
+ 6. ***rel***
+ 7. ***action***
+ 8. ***enctype***
+ 9. ***method***
+ 10. ***novalidate***
+ 11. ***target***
 
-# A seguir seram mostrados como são aplicados
+# A seguir seram mostrados como são aplicados ⬇️
 
 
 # accept 📌
