@@ -69,13 +69,9 @@ Accept-Charset: utf-8, iso-8859-1;q=0.5, *;q=0.1
 | Valores | Descrição |
 | --- | --- | 
 | **ON** | _primeira letra de cada sentença por padrão uma letra maíuscula. Logo as demais letras serão por padrão minúsculas._ |
-
 | **OFF** | _Isso desativa a automática. Por padrão as letras serão minúsculas._ |
-
 | **WORDS** | _Apenas as primeiras letras de cada palavra são capitalizadas automaticamente._ |
-
 | **SENTENCES** | _Apenas a primeira letra de cada frase é capitalizada automaticamente._ |
-
 | **CHARACTERS** | _Cada caractere é capitalizado automaticamente._ | 
 
  - Isso é útil para personalizar a **entrada de texto em formulários**, **dependendo dos requisitos** do seu site ou aplicativo.
