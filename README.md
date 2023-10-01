@@ -99,3 +99,17 @@ padrão as letras serão minúsculas
 
  - Isso é útil para personalizar a entrada de texto em formulários, dependendo dos requisitos do seu site ou aplicativo.
  - O atributo autocapitalize nunca ativa a autocapitalização para um elemento <input> com um atributo type cujo valor seja url, email, ou password.
+
+# Autocomplete
+
+ - O atributo "autocomplete" em HTML é usado para controlar se um navegador deve ou não fornecer sugestões de preenchimento automático para campos de formulário. Ele aceita os seguintes valores:
+
+```
+"ON": Permite que o navegador forneça sugestões de preenchimento automático para o campo de formulário.
+```
+
+```
+"off": Impede o navegador de fornecer sugestões de preenchimento automático para o campo.
+```
+
+ - Isso pode ser útil em **formulários** sensíveis, como os que solicitam informações pessoais ou financeiras, onde você deseja dar ao usuário mais **controle sobre as informações que são automaticamente preenchidas pelo navegador.**
