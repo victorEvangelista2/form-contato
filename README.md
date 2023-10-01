@@ -4,11 +4,11 @@
 
 | Elementos | descrição |
 | --- | --- | 
-| FORM | Essa tag indica que estamos iniciando um formulário, recebe como principais atributos **"method"** e **"action".** | 
-| INPUT | Um campo para que o usuário possa inserir algum texto, data, número, cor, etc… possui como principal o atributo **"type"**. | 
-| TEXTAREA | Representa uma caixa de texto, útil quando você quer permitir ao usuário informar um texto. | 
-| BUTTON | Um botão clicável, que possui como principail atributo type. | 
-| LABEL | A tag label é importante para os campos de formulários. Ela especifica qual o "rótulo" do input e ajuda na experiência do usuário durante a utilização e preenchimento do formulário. | 
+| FORM | _Essa tag indica que estamos iniciando um formulário, recebe como principais atributos **"method"** e **"action".**_ | 
+| INPUT | _Um campo para que o usuário possa inserir algum texto, data, número, cor, etc… possui como principal o atributo **"type"**._ | 
+| TEXTAREA | _Representa uma caixa de texto, útil quando você quer permitir ao usuário informar um texto._ | 
+| BUTTON | _Um botão clicável, que possui como principail atributo type._ | 
+| LABEL | _A tag label é importante para os campos de formulários. Ela especifica qual o "rótulo" do input e ajuda na experiência do usuário durante a utilização e preenchimento do formulário._ | 
 
 # Atributos que compõe o elemento "FORM"
 
