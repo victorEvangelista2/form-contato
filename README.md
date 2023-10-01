@@ -78,9 +78,20 @@ Accept-Charset: utf-8, iso-8859-1;q=0.5, *;q=0.1
 ```
 "on": primeira letra de cada sentença por padrão uma letra maíuscula. Logo as demais letras serão por padrão minúsculas.
 ```
-- "off": Isso desativa a automática.
-- "words": Apenas as primeiras letras de cada palavra são capitalizadas automaticamente.
-- "sentences": Apenas a primeira letra de cada frase é capitalizada automaticamente.
-- "characters": Cada caractere é capitalizado automaticamente.
+
+```
+"off": Isso desativa a automática.
+```
+
+```
+"words": Apenas as primeiras letras de cada palavra são capitalizadas automaticamente.
+```
+
+```
+"sentences": Apenas a primeira letra de cada frase é capitalizada automaticamente.
+```
+
+```
+"characters": Cada caractere é capitalizado automaticamente.
 
 Isso é útil para personalizar a entrada de texto em formulários, dependendo dos requisitos do seu site ou aplicativo.
