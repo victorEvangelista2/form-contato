@@ -1,4 +1,4 @@
-# Formulário de Contato e seus elementos
+# Formulário de Contato e seus elementos 📋
 
 # FORM 
 
@@ -37,7 +37,7 @@
 # A seguir seram mostrados como são aplicados
 
 
-# **accept**
+# accept 📌
 
  - A propriedade aceitar é um atributo do tipo de arquivo **"input"** . Foi suportado no **"form"** elemento, mas foi removido em favor do arquivo.
 
@@ -51,7 +51,7 @@
  1. <img  src="Imagens/cap 2.png" width="42%"><br>
  2. <img  src="Imagens/cap 1.png" width="55%">
 
- # **accept-charset**
+ # accept-charset 📌
 
 
  - O atributo "Accept-Charset" não é exatamente um atributo HTML, mas sim um cabeçalho HTTP que pode ser usado em solicitações HTTP enviadas pelo navegador. Ele especifica a codificação de caracteres aceitável para a resposta da solicitação. 
@@ -71,7 +71,7 @@ Utf-8, iso-8859-1;q=0.5
 Accept-Charset: utf-8, iso-8859-1;q=0.5, *;q=0.1
 ```
 
-# Autocapitalize
+# Autocapitalize 📌
 
  - O atributo "autocapitalize" é usado em elementos HTML para controlar a capitalização automática de texto em campos de entrada e campos de texto. Ele pode ter os seguintes valores:
 
@@ -100,7 +100,7 @@ padrão as letras serão minúsculas
  - Isso é útil para personalizar a entrada de texto em formulários, dependendo dos requisitos do seu site ou aplicativo.
  - O atributo autocapitalize nunca ativa a autocapitalização para um elemento <input> com um atributo type cujo valor seja url, email, ou password.
 
-# Autocomplete
+# Autocomplete 📌
 
  - O atributo "autocomplete" em HTML é usado para controlar se um navegador deve ou não fornecer sugestões de preenchimento automático para campos de formulário. Ele aceita os seguintes valores:
 
@@ -118,7 +118,7 @@ Um nome de usuário ou nome de conta.
 ```
 
 ```
-"E-MAIL":
+"E-MAIL": 📧
 Um endereço de e-mail.
 ```
 
@@ -127,7 +127,7 @@ Um endereço de e-mail.
 ```
  - Isso pode ser útil em **formulários** sensíveis, como os que solicitam informações pessoais ou financeiras, onde você deseja dar ao usuário mais **controle sobre as informações que são automaticamente preenchidas pelo navegador.**
 
-# Name
+# Name 📌
 
  - O atributo "name" em HTML é usado para dar um nome a um elemento, como um campo de formulário, uma âncora (link), ou um elemento de imagem. Esse nome é principalmente usado para identificar o elemento quando se envia dados de um formulário para um servidor.
 # exemplos:
@@ -149,7 +149,7 @@ Um endereço de e-mail.
 | select | name | 
 | textarea | name |
 
-# rel 
+# rel 📌
 
  - O atributo "rel" em HTML é usado principalmente em elementos de link (como <a> e <link>) para especificar o relacionamento entre o recurso vinculado (como uma página da web, um arquivo de estilo CSS, etc.) e o documento atual. Ele descreve a natureza do link.
 
@@ -175,7 +175,7 @@ Um endereço de e-mail.
 "ICON": Usado para especificar um ícone de favorito ou ícone de aplicativo associado a uma página.
 ```
 
- - Esses são apenas alguns exemplos. O atributo "rel" pode ser personalizado para atender a necessidades específicas de relacionamento entre documentos e recursos da web.
+ - O atributo "rel" pode ser personalizado para relacionamento entre documentos e recursos da web. 📂
 
 Navegadores suportados:
 
@@ -187,4 +187,4 @@ Navegadores suportados:
 | Safari | ✅ |
 | Opera | ✅ |
 
-# Action
+# Action📌
