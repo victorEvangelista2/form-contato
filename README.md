@@ -98,3 +98,4 @@ padrão as letras serão minúsculas
 ```
 
  - Isso é útil para personalizar a entrada de texto em formulários, dependendo dos requisitos do seu site ou aplicativo.
+ - O atributo autocapitalize nunca ativa a autocapitalização para um elemento <input> com um atributo type cujo valor seja url, email, ou password.
