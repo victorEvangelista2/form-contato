@@ -109,7 +109,24 @@ padrão as letras serão minúsculas
 ```
 
 ```
-"off": Impede o navegador de fornecer sugestões de preenchimento automático para o campo.
+"OFF": Impede o navegador de fornecer sugestões de preenchimento automático para o campo.
 ```
 
+```
+"USERNAME":
+Um nome de usuário ou nome de conta.
+```
+
+```
+"email":
+Um endereço de e-mail.
+```
+
+```
+'name": O campo espera que o valor seja o nome completo de uma pessoa. Usar " name" em vez de dividir o nome em seus componentes é geralmente preferido porque evita lidar com a grande diversidade de nomes humanos e como eles são estruturados; no entanto, você pode usar os seguintes autocompletevalores se precisar dividir o nome em seus componentes:
+```
  - Isso pode ser útil em **formulários** sensíveis, como os que solicitam informações pessoais ou financeiras, onde você deseja dar ao usuário mais **controle sobre as informações que são automaticamente preenchidas pelo navegador.**
+
+# Name
+
+ - 
