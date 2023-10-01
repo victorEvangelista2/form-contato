@@ -129,4 +129,5 @@ Um endereço de e-mail.
 
 # Name
 
- - 
+ - O atributo "name" em HTML é usado para dar um nome a um elemento, como um campo de formulário, uma âncora (link), ou um elemento de imagem. Esse nome é principalmente usado para identificar o elemento quando se envia dados de um formulário para um servidor.
+ - Por exemplo, em um formulário, os campos de entrada (input) podem ter um atributo "name" para que os dados sejam identificados quando o formulário for submetido. Em JavaScript, você pode acessar elementos com base em seus nomes para interagir com eles.
