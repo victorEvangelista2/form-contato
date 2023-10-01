@@ -175,5 +175,14 @@ Um endereço de e-mail.
 "ICON": Usado para especificar um ícone de favorito ou ícone de aplicativo associado a uma página.
 ```
 
-
  - Esses são apenas alguns exemplos. O atributo "rel" pode ser personalizado para atender a necessidades específicas de relacionamento entre documentos e recursos da web.
+ - Navegadores suportados:
+| Navegadores | rel |
+| --- | --- |
+| Google chrome | ✅ |
+| Microsoft Edge | ✅ |
+| Fire Fox | ✅ |
+| Safari | ✅ |
+| Opera | ✅ |
+
+# Action
