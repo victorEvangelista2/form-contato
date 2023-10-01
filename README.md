@@ -130,4 +130,50 @@ Um endereço de e-mail.
 # Name
 
  - O atributo "name" em HTML é usado para dar um nome a um elemento, como um campo de formulário, uma âncora (link), ou um elemento de imagem. Esse nome é principalmente usado para identificar o elemento quando se envia dados de um formulário para um servidor.
- - Por exemplo, em um formulário, os campos de entrada (input) podem ter um atributo "name" para que os dados sejam identificados quando o formulário for submetido. Em JavaScript, você pode acessar elementos com base em seus nomes para interagir com eles.
+# exemplos:
+ - Em um formulário, os campos de entrada (input) podem ter um atributo "name" para que os dados sejam identificados quando o formulário for submetido. Em JavaScript, você pode acessar elementos com base em seus nomes para interagir com eles.
+
+ - O atributo "name" pode ser usado nos seguintes elementos:
+
+| elementos | Atributo |
+|---|---|
+| button | name |
+| fieldset | name |
+| form | name |
+| iframe | name |
+| input | name | 
+| map | name | 
+| object | name |
+| output | name | 
+| param | name | 
+| select | name | 
+| textarea | name |
+
+# rel 
+
+ - O atributo "rel" em HTML é usado principalmente em elementos de link (como <a> e <link>) para especificar o relacionamento entre o recurso vinculado (como uma página da web, um arquivo de estilo CSS, etc.) e o documento atual. Ele descreve a natureza do link.
+
+ - Alguns valores comuns para o atributo "rel" são:
+
+```
+"STYLESHEET": Usado em links para arquivos CSS, indicando que o link se relaciona com uma folha de estilo.
+```
+
+```
+"NOFOLLOW": Usado em links para informar aos mecanismos de busca que eles não devem seguir o link.
+```
+
+```
+"CANONICAL": Usado para indicar a URL canônica de uma página, ajudando a evitar conteúdo duplicado.
+```
+
+```
+"PREV" e "NEXT": Usados para criar uma relação de páginas em uma série de páginas, como em paginação.
+```
+
+```
+"ICON": Usado para especificar um ícone de favorito ou ícone de aplicativo associado a uma página.
+```
+
+
+ - Esses são apenas alguns exemplos. O atributo "rel" pode ser personalizado para atender a necessidades específicas de relacionamento entre documentos e recursos da web.
