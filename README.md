@@ -176,7 +176,9 @@ Um endereço de e-mail.
 ```
 
  - Esses são apenas alguns exemplos. O atributo "rel" pode ser personalizado para atender a necessidades específicas de relacionamento entre documentos e recursos da web.
- - Navegadores suportados:
+
+Navegadores suportados:
+
 | Navegadores | rel |
 | --- | --- |
 | Google chrome | ✅ |
