@@ -94,7 +94,7 @@ padrão as letras serão minúsculas
 ```
 
 ```
-- "CHARACTERS": Cada caractere é capitalizado automaticamente.
+"CHARACTERS": Cada caractere é capitalizado automaticamente.
 ```
 
-Isso é útil para personalizar a entrada de texto em formulários, dependendo dos requisitos do seu site ou aplicativo.
+ - Isso é útil para personalizar a entrada de texto em formulários, dependendo dos requisitos do seu site ou aplicativo.
