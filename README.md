@@ -117,25 +117,14 @@ Accept-Charset: utf-8, iso-8859-1;q=0.5, *;q=0.1
 
  - Alguns valores comuns para o atributo "rel" são:
 
-```
-"STYLESHEET": Usado em links para arquivos CSS, indicando que o link se relaciona com uma folha de estilo.
-```
+| Valores | Descrição |
+| --- | --- |
+| **STYLESHEET** | _Usado em links para arquivos CSS, indicando que o link se relaciona com uma folha de estilo._ |
+| **NOFOLLOW** | _Usado em links para informar aos mecanismos de busca que eles não devem seguir o link._ |
+| **CANONICAL** | _Usado para indicar a URL canônica de uma página, ajudando a evitar conteúdo duplicado._ |
+| **PREV** e **NEXT** | _Usados para criar uma relação de páginas em uma série de páginas, como em paginação._ |
+| **ICON** | _Usado para especificar um ícone de favorito ou ícone de aplicativo associado a uma página._ |
 
-```
-"NOFOLLOW": Usado em links para informar aos mecanismos de busca que eles não devem seguir o link.
-```
-
-```
-"CANONICAL": Usado para indicar a URL canônica de uma página, ajudando a evitar conteúdo duplicado.
-```
-
-```
-"PREV" e "NEXT": Usados para criar uma relação de páginas em uma série de páginas, como em paginação.
-```
-
-```
-"ICON": Usado para especificar um ícone de favorito ou ícone de aplicativo associado a uma página.
-```
 
  - O atributo "rel" pode ser personalizado para relacionamento entre documentos e recursos da web. 📂
 
