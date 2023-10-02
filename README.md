@@ -9,7 +9,7 @@
 | TEXTAREA | _Representa uma caixa de texto, útil quando você quer permitir ao usuário informar um texto._ | 
 | BUTTON | _Um botão clicável, que possui como principail atributo type._ | 
 | LABEL | _A tag label é importante para os campos de formulários. Ela especifica qual o "rótulo" do input e ajuda na experiência do usuário durante a utilização e preenchimento do formulário._ | 
-
+| **SPAN** | _O elemento "span" no HTML é usado para agrupar e aplicar estilos, atributos ou scripts a partes específicas de texto, sem afetar a estrutura do conteúdo. Ele é uma etiqueta de marcação de texto flexível permitindo a formatação detalhada._ |
 # Atributos que compõe o elemento "FORM"
 
  1. ***accept***
