@@ -1,6 +1,6 @@
-# Formulário de Contato e seus elementos 👥📋
+# Formulário de Contato e seus elementos 👋👤
 
-# Elementos que compõe um formulário 🔹📋
+# Elementos que compõe um formulário 🔹
 
 | Elementos | descrição |
 | --- | --- | 
@@ -11,12 +11,19 @@
 | LABEL | _A tag label é importante para os campos de formulários. Ela especifica qual o "rótulo" do input e ajuda na experiência do usuário durante a utilização e preenchimento do formulário._ | 
 | **SPAN** | _É usado para agrupar e aplicar estilos, atributos ou scripts a partes específicas de texto, sem afetar a estrutura do conteúdo. Ele é uma etiqueta de marcação de texto flexível permitindo a formatação detalhada._ |
 
-# Cada elemento recebe um ou mais atributos e a seguir seram mostradas as suas funções 
+# Cada elemento recebe um ou mais atributos e a seguir seram mostradas as suas funções
 
-| **ELEMENTO** | **ATRIBUTO** | **FUNÇÃO** |
-| --- | --- | --- |
-| **FORM** | 
+# FORM 
 
+| **ATRIBUTOS** | **FUNÇÃO** |
+| --- | --- |
+| **ACTION** | _Especifica o URL para onde os dados do formulário serão enviados quando o formulário for submetido._ |
+| **METHOD** | _Define o método HTTP a ser usado para enviar os dados do formulário, geralmente "GET" ou "POST"._ |
+
+# LABEL
+
+| **ATRIBUTOS** | **FUNÇÃO** |
+| --- | --- |
 
 
 
