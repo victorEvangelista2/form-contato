@@ -18,13 +18,19 @@
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
 | **ACTION** | _Especifica o URL para onde os dados do formulário serão enviados quando o formulário for submetido._ |
-| **METHOD** | _Define o método HTTP a ser usado para enviar os dados do formulário, geralmente "GET" ou "POST"._ |
+| **METHOD** | _Define o método HTTP a ser usado para enviar os dados do formulário._ |
 
 # LABEL
 
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
+| **FOR** | _Este atributo é usado para vincular o rótulo a um elemento de formulário, como um "input", usando o valor do atributo "id" do elemento de formulário. Isso permite que os usuários cliquem no rótulo para ativar o campo de entrada correspondente._ |
 
+# INPUT 
+
+| **ATRIBUTOS** | **FUNÇÃO** |
+| --- | --- |
+| **
 
 
 
