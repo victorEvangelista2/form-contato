@@ -44,8 +44,15 @@
 | --- | --- |
 | 🔸**ID** | _Usado para fornecer uma identificação única para essa caixa de texto. Ele não afeta o comportamento ou a aparência do elemento. Também é muito útil em estilização **CSS**, podendo até mesmo personalizar a aparência de uma caixa de texto específica._ |
 
+# BUTTON
 
+ - **OBSERVAÇÃO**📣: O elemento "button" além de receber outros atibutos os principais são:
+   1. "id"
+   2. "class"
+   3. "style"
+   4. "type"
 
+ - Os atributos acima são geralmente chamados de "atributos globais" que são atributos amplamente aplicáveis nos elementos do HTML.
 
 
 # accept 📌
