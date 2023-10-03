@@ -1,6 +1,6 @@
 # Formulário de Contato e seus elementos 👋👤
 
-# Elementos que compõe um formulário 🔹
+# Elementos que compõe um formulário 📋👥
 
 | Elementos | descrição |
 | --- | --- | 
@@ -13,20 +13,20 @@
 
 # Cada elemento recebe um ou mais atributos e a seguir seram mostradas as suas funções
 
-# FORM 
+# 🔸FORM 
 
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
 | **ACTION** | _Especifica o URL para onde os dados do formulário serão enviados quando o formulário for submetido._ |
 | **METHOD** | _Define o método HTTP a ser usado para enviar os dados do formulário._ |
 
-# LABEL
+# 🔸LABEL
 
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
 | **FOR** | _Este atributo é usado para vincular o rótulo a um elemento de formulário, como um "input", usando o valor do atributo "id" do elemento de formulário. Isso permite que os usuários cliquem no rótulo para ativar o campo de entrada correspondente._ |
 
-# INPUT 
+# 🔸INPUT 
 
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
@@ -34,11 +34,11 @@
 | **NAME** | _Especifica o nome do elemento para referência em formulários._ |
 | **ID** | _Usado para identificar exclusivamente um elemento dentro de um documento HTML. A principal função do atributo "id" é permitir o acesso a elementos específicos por meio de JavaScript e CSS._ | 
 
-# SPAN 
+# 🔸SPAN 
 
  - **OBSERVAÇÃO** 📣: Span é um elemento de marcação de texto semântica, em oposição a um atributo. Portanto é um elemento HTML que desempenha um papel importante na formatação e estilização de conteúdo em uma página da web.
 
-# TEXTAREA
+# 🔸TEXTAREA
 
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
