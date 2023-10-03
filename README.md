@@ -30,7 +30,20 @@
 
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
-| **
+| **TYPE** | _Define o tipo de entrada, como texto, número, data, etc._ |
+| **NAME** | _Especifica o nome do elemento para referência em formulários._ |
+| **ID** | _Usado para identificar exclusivamente um elemento dentro de um documento HTML. A principal função do atributo "id" é permitir o acesso a elementos específicos por meio de JavaScript e CSS._ | 
+
+# SPAN 
+
+ - **OBSERVAÇÃO** 📣: Span é um elemento de marcação de texto semântica, em oposição a um atributo. Portanto é um elemento HTML que desempenha um papel importante na formatação e estilização de conteúdo em uma página da web.
+
+# TEXTAREA
+
+| **ATRIBUTOS** | **FUNÇÃO** |
+| --- | --- |
+| **ID | _Usado para fornecer uma identificação única para essa caixa de texto. Ele não afeta o comportamento ou a aparência do elemento. Também é muito útil em estilização **CSS**, podendo até mesmo personalizar a aparência de uma caixa de texto específica._ |
+
 
 
 
