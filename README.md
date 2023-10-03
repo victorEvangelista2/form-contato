@@ -52,7 +52,7 @@
    - "style"
    - "type"
 
- - Os atributos acima são geralmente chamados de "atributos globais" que são atributos amplamente aplicáveis nos elementos do HTML.
+ - Os atributos acima são geralmente chamados de "atributos globais" que são atributos amplamente aplicáveis nos elementos HTML.
 
 
 # accept 📌
