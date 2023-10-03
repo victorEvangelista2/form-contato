@@ -70,3 +70,13 @@
    - "type"
 
  - Os atributos acima são geralmente chamados de "atributos globais" que são atributos amplamente aplicáveis nos elementos HTML.
+
+
+# Tecnologias utilizadas
+
+ - [Alura](https://www.alura.com/IT-Support/Plymouth-Meeting/default.aspx)
+ - [Developer Mozila](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+ - [Pipz](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
+
+ 
