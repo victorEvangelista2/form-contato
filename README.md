@@ -42,7 +42,7 @@
 
 | **ATRIBUTOS** | **FUNÇÃO** |
 | --- | --- |
-| **ID | _Usado para fornecer uma identificação única para essa caixa de texto. Ele não afeta o comportamento ou a aparência do elemento. Também é muito útil em estilização **CSS**, podendo até mesmo personalizar a aparência de uma caixa de texto específica._ |
+| **ID** | _Usado para fornecer uma identificação única para essa caixa de texto. Ele não afeta o comportamento ou a aparência do elemento. Também é muito útil em estilização **CSS**, podendo até mesmo personalizar a aparência de uma caixa de texto específica._ |
 
 
 
