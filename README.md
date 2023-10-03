@@ -47,10 +47,10 @@
 # BUTTON
 
  - **OBSERVAÇÃO**📣: O elemento "button" além de receber outros atibutos os principais são:
-   1. "id"
-   2. "class"
-   3. "style"
-   4. "type"
+   - "id"
+   - "class"
+   - "style"
+   - "type"
 
  - Os atributos acima são geralmente chamados de "atributos globais" que são atributos amplamente aplicáveis nos elementos do HTML.
 
