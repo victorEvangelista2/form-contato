@@ -2,7 +2,7 @@
 
 # Elementos que compõe um formulário 📋👥
 
-| Elementos | descrição |
+| **Elementos** | **Descrição** |
 | --- | --- | 
 | 🔸**FORM** | _Essa tag indica que estamos iniciando um formulário, recebe como principais atributos **"method"** e **"action".**_ | 
 | 🔸**INPUT** | _Um campo para que o usuário possa inserir algum texto, data, número, cor, etc… possui como principal o atributo **"type"**._ | 
