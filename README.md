@@ -1,5 +1,17 @@
 # Formulário de Contato e seus elementos 📋👥 
 
+# Descrição do projeto:
+
+ - Projeto de formação de formularios, onde cada elemento e atibuto foi apresentado com texto e imagens, também foi apresentado a função  de cada elemento e de cada atributo. Portanto os elementos aprensentados são:
+  - "form"
+  - "input"
+  - "label"
+  - "textarea"
+  - "span"
+  - "button"
+
+ - Sendo assim foi apresentado cada aribuição de cada elemento html. 
+
 # Elementos que compõe um formulário ⚙️
 
 | **Elementos** | **Descrição** |
