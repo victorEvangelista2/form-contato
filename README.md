@@ -1,6 +1,6 @@
-# Formulário de Contato e seus elementos 👋👤
+# Formulário de Contato e seus elementos 📋👥 
 
-# Elementos que compõe um formulário 📋👥
+# Elementos que compõe um formulário ⚙️
 
 | **Elementos** | **Descrição** |
 | --- | --- | 
